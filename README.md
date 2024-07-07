@@ -17,8 +17,9 @@
 <a href="https://www.linkedin.com/in/shivangi-sahay-07ba26262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivangi sahay" height="30" width="40" /></a>
 <a href="https://instagram.com/shivangi_886_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivangi_886_" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/dd6f51ee-46f2-4181-8d4f-881645e6b2d2" target="_blank">
-  <img align="center" src="https://github.com/<your-username>/<your-repository>/raw/main/coding_ninja_logo.png" alt="Coding Ninja Badge" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/naukri.svg" alt="Naukri Code360 Profile" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
